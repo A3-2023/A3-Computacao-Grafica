@@ -19,6 +19,7 @@ Projeto proposto pelo professor João Victor Do Vale <br/>
 | Roger Freitas              | 422221521 |
 | Gabriel Bernardes Gherardi | 422222195 |
 | Ryan Freitas               | 422137686 |
+| Lucas Rodrigues Ramos      | 422222503 |
   
 
 
