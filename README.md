@@ -5,7 +5,7 @@ Projeto proposto pelo professor João Victor Do Vale <br/>
 
 ##  🧙‍♂️ Membros
 <p align="center">
-  <img alt="https://github.com/A3-2023/A3-Computacao-Grafica/blob/main/banner1.png?raw=true" src="#" width="100%">
+  <img alt="membros" src="https://github.com/A3-2023/A3-Computacao-Grafica/blob/main/banner1.png?raw=true" width="100%">
 </p>
 
 
