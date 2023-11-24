@@ -5,10 +5,23 @@
 <p align="center">
 Projeto proposto pelo professor João Victor Do Vale <br/>
 
-
+##  🧙‍♂️ Membros
 <p align="center">
   <img alt="foto do projeto" src="#" width="100%">
 </p>
+
+
+| Nomes                      | RA        |
+|----------------------------|-----------|
+| Gabrielle Soares           | 422221763 |
+| Samuel Faria Garcia        | 42111586  |
+| Anna Clara Gomes           | 422142003 |
+| Roger Freitas              | 422221521 |
+| Gabriel Bernardes Gherardi | 422222195 |
+| Ryan Freitas               | 422137686 |
+  
+
+
 
 ## 💻 Projeto
 
@@ -30,19 +43,8 @@ Esse estudo foi sendo seguido com as seguintes tecnologias:
 
 
 
-## 🔧Ferramentas
-
-
 ## 📝 Créditos
 
-
-
--  [Curso em Video LinkTree](https://www.cursoemvideo.com/links/)
--  Icones desenvolvidos por: [@rahuldkjain](https://github.com/rahuldkjain)  disponível no site [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
-- Quaisquer créditos que devem ser colocados, seja de imagem ou video, etc.
-
-- README: Hero Patterns for Figma [by @tkmadeit](https://www.figma.com/@tkmadeit)
 
 </details> 
 
