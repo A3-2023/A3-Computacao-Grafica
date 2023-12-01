@@ -3,6 +3,19 @@
 O objetivo do projeto é criar um ambiente em realidade virtual, implementando um port para VR utilizando a Unity ou outra plataforma escolhida pela equipe. O cenário a ser explorado será definido de forma colaborativa pelo grupo.
  <h4 align="center"> <em> Professor responsável: João Victor do Vale</em></h4>
 
+---
+
+
+
+
+
+
+
+
+
+---
+
+
 
 ##  🧙‍♂️ Membros
 
@@ -13,9 +26,9 @@ O objetivo do projeto é criar um ambiente em realidade virtual, implementando u
 [![ Arthur augusto -  422222654](https://img.shields.io/badge/_Arthur_augusto-_422222654-C683D7?style=for-the-badge&logo=github&logoColor=C683D7)](https://github.com/arthuraugus)
 [![Gabriel Bernardes - 422222195](https://img.shields.io/static/v1?label=Gabriel+Bernardes&message=422222195&color=0f6103&style=for-the-badge&logo=github&logoColor=0f6103)](https://github.com/Gabber28)
 
-<p align="center">
-  <img alt="membros" src="https://github.com/A3-2023/A3-Computacao-Grafica/blob/main/banner1.png?raw=true" width="100%">
-</p>
+
+
+---
 
 
 
