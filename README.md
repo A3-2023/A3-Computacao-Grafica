@@ -1,14 +1,29 @@
  <h1 align="center"> Desenvolvimento de Ambiente em Realidade Virtual</h1>
+
+ <p align="center">
+  <img alt="banner" src="https://github.com/A3-2023/.github/blob/main/profile/A3.png?raw=true">
+</p>
+
   
 O objetivo do projeto é criar um ambiente em realidade virtual, implementando um port para VR utilizando a Unity ou outra plataforma escolhida pela equipe. O cenário a ser explorado será definido de forma colaborativa pelo grupo.
  <h4 align="center"> <em> Professor responsável: João Victor do Vale</em></h4>
 
 ---
 
+<h2> Sobre: </h2>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pulvinar nisi et semper ultricies. Integer vitae est augue. Nunc gravida nunc in libero dictum lobortis. In sollicitudin, nunc at dapibus suscipit, dui est pellentesque purus, vel tempor nisi justo ac nisi. Vivamus tellus nisl, fringilla id lacinia sit amet, venenatis ut tortor. Fusce nec tortor sit amet turpis dignissim congue. Ut scelerisque consequat maximus. Cras tellus nibh, ullamcorper ac fringilla ut, rhoncus auctor urna.
 
 
 
+---
+<h2> Progresso </h2>
 
+ <p align="center" >
+   <h3> "France" - Menina LowPoly que irá compor o ambiente </h3>
+ <img  src="https://github.com/A3-2023/A3-Computacao-Grafica/blob/main/fotos/girl_result.png" >
+
+</p>
 
 
 
