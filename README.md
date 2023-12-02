@@ -25,6 +25,8 @@ O objetivo do projeto é criar um ambiente em realidade virtual, implementando u
 [![Lucas Rodrigues - 422222503](https://img.shields.io/badge/Lucas_Rodrigues-422222503-blue?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/LucasRramos)
 [![ Arthur augusto -  422222654](https://img.shields.io/badge/_Arthur_augusto-_422222654-C683D7?style=for-the-badge&logo=github&logoColor=C683D7)](https://github.com/arthuraugus)
 [![Gabriel Bernardes - 422222195](https://img.shields.io/static/v1?label=Gabriel+Bernardes&message=422222195&color=0f6103&style=for-the-badge&logo=github&logoColor=0f6103)](https://github.com/Gabber28)
+[![Ryan Freitas -  422137686](https://img.shields.io/badge/Ryan_Freitas-_422137686-2D9596?style=for-the-badge&logo=github&logoColor=ECF4D6)](https://github.com/Rzin-lg)
+[![Roger Freitas - 422221521](https://img.shields.io/badge/Roger_Freitas-422221521-FFC5C5?style=for-the-badge&logo=github&logoColor=89B9AD)](https://github.com/RogerFA10)
 
 
 
